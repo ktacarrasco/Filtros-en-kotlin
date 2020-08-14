@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Filters</string>
+    <string name="input">Entrada</string>
+    <string name="message">Mensaje</string>
+    <string name="result">Resultado</string>
+    <string name="list_filters">Filtros para listas</string>
+    <string name="filter_by_predicate">Filtro por predicado</string>
+    <string name="filter_indexed">Filtro por índice</string>
+    <string name="filter_not">Filtro not</string>
+    <string name="filter_instance">Filtro por instancia</string>
+    <string name="testing_predicate">Probando el predicado</string>
+    <string name="any">Cualquiera</string>
+    <string name="none">Ninguno</string>
+    <string name="all">Todos</string>
+    <string name="instruction">Instrucción</string>
+    <string name="natural_sort">Natural</string>
+    <string name="sorting">Ordenamiento</string>
+    <string name="filter_by_value">Filtro por valor</string>
+    <string name="filter_by_key">Filtro por clave</string>
+    <string name="filter_maps">Filtros para mapas</string>
+    <string name="partitioning">Fraccionamiento</string>
+    <string name="filter_not_empty">Filtro no nulo</string>
+    <string name="custom_sorting">Personalizado</string>
+    <string name="reverse_sorting">Reverso</string>
+</resources>
